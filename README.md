@@ -14,8 +14,7 @@ Software Engineer and Web Developer
 <a href="https://www.twitter.com/fortune_festus" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/fortune_festus?logo=twitter&style=for-the-badge&color=0891b2&labelColor=27272a"/>
 </a>
 
-<a href="https://www.github.com/FortuneGTL" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/FortuneGTL?logo=github&style=for-the-badge&color=0891b2&labelColor=27272a" />
-</a>
+
 
 ### Skills
 <p align="left">
