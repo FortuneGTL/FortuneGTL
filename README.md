@@ -11,10 +11,6 @@ Full Stack Web Developer
 *   🧠  I'm learning React.js
 *   🤝  I'm open to collaborating on interesting projects
 
-<a href="https://www.twitter.com/fortune_festus" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/fortune_festus?logo=twitter&style=for-the-badge&color=0891b2&labelColor=27272a"/>
-</a>
-
-
 
 ### Skills
 <p align="left">
