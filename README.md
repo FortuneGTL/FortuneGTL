@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fortunatus Azobua
 =========================================================================================================================================
 
-Software Engineer and Web Developer
+Full Stack Web Developer
 -----------------------------------
 
 *   🌍  I'm based in Nigeria
 *   🖥️  See my portfolio at [My Portfolio](http://sssss)
 *   ✉️  You can contact me at [fortunatusazobua@gmail.com](mailto:fortunatusazobua@gmail.com)
-*   🚀  I'm currently working on [Facebook web](http://asasd)
-*   🧠  I'm learning React and C
-*   🤝  I'm open to collaborating on interesting projects
+*   🚀  I'm currently working on [Facebook web](#)
+*   🧠  I'm learning React.js
+*   🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.twitter.com/fortune_festus" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/fortune_festus?logo=twitter&style=for-the-badge&color=0891b2&labelColor=27272a"/>
 </a>
